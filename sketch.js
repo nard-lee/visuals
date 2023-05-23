@@ -8,6 +8,7 @@ function draw() {
   background(0);
   rect(100, 100, 20, 30);
   arc(100, 200, 30, 30);
+  rect(150, 150, 10, 10);
 }
 
 
